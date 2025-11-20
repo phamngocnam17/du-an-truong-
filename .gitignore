@@ -1,0 +1,37 @@
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Packages
+packages/
+*.nupkg
+
+# Publish
+/Publish/
+
+# Others
+*.log
+*.vspscc
+*.vssscc
+
+# npm/node
+node_modules/
+
+# Rider
+.idea/
+
+# Mac
+.DS_Store
+
+# IIS Express
+IISExpress/**
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
