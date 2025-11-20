@@ -35,3 +35,8 @@ IISExpress/**
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
+
+# Ignore local uploads and lots of flag images
+Uploads/
+Public/img/flags/
+Public/img/examples/
